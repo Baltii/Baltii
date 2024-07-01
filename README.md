@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baltii" alt="baltii" /></a> </p>
 
-- 🔭 I’m currently working on **Roman Empire Phone game**
+- 🔭 I’m currently working on **Event Management Platform**
 
-- 🌱 I’m currently learning **Xamarin and C#**
+- 🌱 I’m currently learning **NextJS and TypeScript**
 
 - 👯 I’m looking to collaborate on **ReactJS project**
 
-- 💬 Ask me about **React JS, Java, XML, CSS3, MongoDB, expressJS**
+- 💬 Ask me about **React JS,Next JS, Angular, JAVA, MongoDB, expressJS**
 
 - 📫 How to reach me **baltii.ahmed@gmail.com**
 
-- ⚡ Fun fact **i'm a multi task man , I can coding while I'm watching a movie**
+- ⚡ Fun fact **i'm a multi task man , I can coding while I'm designing a new UI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
