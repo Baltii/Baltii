@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Balti</h1>
-<h3 align="center">A junior full stack developer, Web designer and UI/UX designer from Tunisia</h3>
+<h3 align="center">A creative full stack developer and UI/UX designer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baltii&label=Profile%20views&color=0e75b6&style=flat" alt="baltii" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Event Management Platform**
 
-- 🌱 I’m currently learning **NextJS and TypeScript**
+- 🌱 I’m currently learning **React Native and TypeScript**
 
-- 👯 I’m looking to collaborate on **ReactJS project**
+- 👯 I’m looking to collaborate on **NextJS projects**
 
-- 💬 Ask me about **React JS,Next JS, Angular, JAVA, MongoDB, expressJS**
+- 💬 Ask me about **React JS, Next JS, Angular, JAVA, MongoDB, PostgreSQL, Supabase, expressJS**
 
 - 📫 How to reach me **baltii.ahmed@gmail.com**
 
