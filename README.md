@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baltii" alt="baltii" /></a> </p>
 
-- 🔭 I’m currently working on **Event Management Platform**
+- 🔭 I’m currently working on **Subscriptions Tracker App**
 
 - 🌱 I’m currently learning **React Native and TypeScript**
 
 - 👯 I’m looking to collaborate on **NextJS projects**
 
-- 💬 Ask me about **React JS, Next JS, Angular, JAVA, MongoDB, PostgreSQL, Supabase, expressJS**
+- 💬 Ask me about **React JS, Next JS, Fastify, JAVA, MongoDB, PostgreSQL, Supabase, expressJS**
 
 - 📫 How to reach me **baltii.ahmed@gmail.com**
 
